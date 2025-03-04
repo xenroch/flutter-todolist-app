@@ -1,2 +1,3 @@
-# flutter-todolist-app
-projek ini berisi aplikasi mobile berbasis flutter dengan tema todolist
+# todo_list_app
+
+A new Flutter project.
